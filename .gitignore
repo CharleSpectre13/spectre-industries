@@ -8,3 +8,4 @@ attachments
 .env
 .env.*
 .DS_Store
+.deploy-*.json

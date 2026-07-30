@@ -1,8 +1,9 @@
 # Spectre Industries — Launch & Marketing Playbook
-**Status:** Public repo live · Production deploy in flight  
+**Status:** LIVE on production  
 **Date:** 2026-07-29
 
 ## Live assets
+- **Production:** https://spectre-industries.vercel.app
 - **GitHub:** https://github.com/CharleSpectre13/spectre-industries
 - **X:** @CharleSpectre
 - **Product names:** S007 · Got You Paid · Spectre Industries

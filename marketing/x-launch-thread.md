@@ -5,6 +5,7 @@ Copy-paste ready. Post as one thread.
 
 **1/7**
 Spectre Industries is live.
+https://spectre-industries.vercel.app
 
 Editorial house for operators who still close their own deals.
 
@@ -51,7 +52,8 @@ What to do:
 2. Grab the $4 S007 seat if you want agents that compound  
 3. Book a Floor Map if you want the system mapped this week
 
-Link in bio / reply “PAID” and I’ll route you.
+https://spectre-industries.vercel.app
+Reply “PAID” and I’ll route you.
 
 **7/7**
 Spectre Industries.
